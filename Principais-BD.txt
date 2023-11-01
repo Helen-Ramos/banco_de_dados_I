@@ -1,0 +1,43 @@
+Instruções do projeto
+
+O Sistema de Gerenciamento de Bancos de Dados é um conjunto de programas que serve para gerenciar um ou mais bancos de dados. Sendo assim, pesquise sobre os bancos de dados mais utilizados no mercado de trabalho e descreva dois deles.
+
+
+Oracle
+
+É um sistema gerenciador de banco de dados relacional,  que surgiu no fim dos anos 70, funciona em softwares operacionais usuais como Linux e Windows. 
+Esse tipo de banco de dados é bastante utilizado devido a alta performance e segurança, principais requisitos para empresas de grande porte ou para negócios que necessitam de altas aplicações. 
+
+Sendo as principais vantagens:
+
+Mais agilidades nas transferências;
+Mais confiabilidade;
+Mais segurança nos processos;
+Alta portabilidade;
+Restauração e recuperação de dados facilitada;
+Suporte para diversos bancos;
+Atualizações seguras;
+Alto reconhecimento no mercado.
+
+
+SQL Server
+
+Também desenvolvida nos anos 70, se destaca por recursos robustos de segurança, usa criptografia para controlar dados para que estejam disponíveis somente para pessoas autorizadas. Algumas regras importantes para proibir que os dados se percam com ações negligentes ou descuidadas.
+
+Principais características:
+
+Facilidade no uso;
+Capacidade de recuperação de dados;
+Gerenciamento de tabelas e relações;
+Integridade de dados;
+Transações permitindo a execução de várias operações;
+Agregação de dados.
+
+
+
+
+
+
+Helen Ramos
+
+
